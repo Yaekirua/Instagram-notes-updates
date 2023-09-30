@@ -1,4 +1,14 @@
 # Instagram-notes-updates
+## Getting Started
+
+Follow these steps to get started with the project:
+
+1. Clone the GitHub repository:
+
+   ```bash
+   git clone https://github.com/Yaekirua/Instagram-notes-updates.git
+cd Instagram-notes-updates
+pip install -r requirements.txt
 
 ## Changing Notes in `main.py`
 
